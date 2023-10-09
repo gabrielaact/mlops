@@ -2,13 +2,15 @@
 
 ## Identification & Affiliation
 
-Gabriela Targino is a Computer Engineer student at the Federal University of Rio Grande do Norte. Currently, she's enrolled in the course "Machine Learning Based Systems Design" taught by Professor Ivanovitch Silva.
+Gabriela Targino is a Computer Engineer student at the Federal University of Rio Grande do Norte. Currently, she's enrolled in the course 'Machine Learning Based Systems Design' taught by Professor Ivanovitch Silva.
 
 ## Introduction
 
-Machine Learning is a powerful field of artificial intelligence that focuses on developing algorithms and models that enable computers to learn and make predictions or decisions without being explicitly programmed. This GitHub repository is dedicated to the course "Machine Learning Based Systems Design," taught by Professor Ivanovitch Silva.
+Machine Learning is a dynamic field within artificial intelligence that has revolutionized the way we approach complex problems and data analysis. At its core, Machine Learning enables computers to learn patterns and make data-driven decisions without being explicitly programmed. This remarkable capability has opened up a world of possibilities across various domains.
 
-In this course, students will explore the fundamentals of machine learning, including supervised and unsupervised learning, deep learning, and various machine learning techniques. They will also learn how to design and implement machine learning-based systems for solving real-world problems.
+In recent years, Machine Learning has found applications in a wide range of industries and disciplines. It has been instrumental in natural language processing, where it powers virtual assistants like Siri and chatbots, making human-computer interactions more natural and intuitive. In the healthcare sector, Machine Learning is used to analyze medical images, predict disease outbreaks, and assist in drug discovery.
+
+To gain a deeper understanding of this field, this GitHub repository is dedicated to the course 'Machine Learning Based Systems Design,' taught by Professor Ivanovitch Silva, and it contains all projects developed for the subject.
 
 ## Projects
 
