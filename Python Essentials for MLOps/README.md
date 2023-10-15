@@ -42,3 +42,5 @@ Upon successfully completing the Dataquest course "Intermediate Python for Web D
 
 ## References
 
+- [Dataquest Project Solutions](https://github.com/dataquestio/solutions)
+

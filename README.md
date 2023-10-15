@@ -22,8 +22,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## References
 
-Here are some recommended references and resources for further exploration of machine learning:
-
 - [Dataquest Project Solutions](https://github.com/dataquestio/solutions)
 
-Feel free to explore, contribute, and learn from the materials in this repository. Happy coding!
+Feel free to explore, contribute, and learn from the materials in this repository. 
