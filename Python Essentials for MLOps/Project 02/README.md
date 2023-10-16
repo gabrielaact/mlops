@@ -50,7 +50,7 @@ pylint podcasts.py
 
 The script movie_recommendation.py received a linting score of 9.03.
 
-![Pylint result](https://github.com/gabrielaact/mlops/blob/main/Python%20Essentials%20for%20MLOps/Project%2003/images/pylint.png)
+![Pylint result](https://github.com/gabrielaact/mlops/blob/main/Python%20Essentials%20for%20MLOps/Project%2002/images/pylint.png)
 
 ## References
 
