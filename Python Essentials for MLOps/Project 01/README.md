@@ -15,7 +15,7 @@ The code uses Pandas for data manipulation, Scikit-learn for TF-IDF vectorizatio
    - requests
    - numpy
 
-   The movie data is expected to be in CSV files ('data/movies.csv' and 'data/ratings.csv').
+   The movie data can be downloaded [here](https://files.grouplens.org/datasets/movielens/ml-25m.zip) and is expected to be in CSV files ('data/movies.csv' and 'data/ratings.csv').
 
 2. **Running the Script:**
 
