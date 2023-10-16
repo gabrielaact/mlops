@@ -48,7 +48,7 @@ pylint rental_prediction.py
 
 The script rental_prediction.py received a linting score of 9.09.
 
-![Pylint result](https://github.com/gabrielaact/mlops/blob/main/Python%20Essentials%20for%20MLOps/Project%2001/images/pylint.png)
+![Pylint result](https://github.com/gabrielaact/mlops/blob/main/Python Essentials for MLOps/Project 03/images/pylint.png)
 
 ## References
 [Dataquest - Predicting Bike Rentals](https://github.com/dataquestio/solutions/blob/master/Mission213Solution.ipynb)
