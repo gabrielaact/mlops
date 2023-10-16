@@ -18,15 +18,16 @@ Upon successfully completing the Dataquest course, a certificate of achievement 
 ## Requirements/Technologies
 
 - Python 3.11
-- Pandas
-- Scikit-learn
-- Airflow
+- pandas
+- scikit-learn
+- airflow
 - requests
 - xmltodict
 - pydub
-- Vosk
-- SQLite
-- Pylint
+- vosk
+- sqlite
+- pylint
+- numpy
 
 ## Installation Instructions
 

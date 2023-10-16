@@ -14,7 +14,8 @@ To gain a deeper understanding of this field, this GitHub repository is dedicate
 
 ## Projects
 
-This repository contains projects and assignments related to the "Machine Learning Based Systems Design" course. 
+This repository contains projects and assignments related to the "Machine Learning Based Systems Design" course:
+- [Python Essentials for MLOps](https://github.com/gabrielaact/mlops/tree/main/Python%20Essentials%20for%20MLOps)
 
 ## License
 
