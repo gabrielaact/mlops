@@ -56,10 +56,9 @@ python predicting_weather.py
 
 ## Link to Video
 
+[Link to Video](https://www.loom.com/share/9eaf8963c77341acbcccf27687cfd3fe?sid=88d6c09f-58d7-4fcb-8ae7-1c0765746675)
 
 ## Certificate of Completion
-
-Upon successfully completing the Dataquest course "Intermediate Python for Web Development," you can obtain a certificate of achievement. You can view and validate the certificate using the following link:
 
 [Dataquest Certificate - Intermediate Python for Web Development](https://app.dataquest.io/view_cert/MLO6Y4AP90Y4EETQXE7C)
 
