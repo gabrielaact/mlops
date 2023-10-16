@@ -29,7 +29,7 @@ The code uses Pandas for data manipulation, Scikit-learn for TF-IDF vectorizatio
 
     Enter the name of a movie to get recommendations based on the movie name. Optionally, you can enter a movie ID to find movies similar to it based on user ratings. Here's an example:
 
-    !(https://github.com/gabrielaact/mlops/blob/main/Python%20Essentials%20for%20MLOps/Project%2001/images/example.png)
+    ![Recomendation example](https://github.com/gabrielaact/mlops/blob/main/Python%20Essentials%20for%20MLOps/Project%2001/images/example.png)
 
 
 ## Linting and Pylint
@@ -42,7 +42,7 @@ pylint movie_recommendation.py
 
 The script movie_recommendation.py received a linting score of 10.
 
-!(https://github.com/gabrielaact/mlops/blob/main/Python%20Essentials%20for%20MLOps/Project%2001/images/pylint.png)
+![Pylint result](https://github.com/gabrielaact/mlops/blob/main/Python%20Essentials%20for%20MLOps/Project%2001/images/pylint.png)
 
 ## References
 [Dataquest - Build a Movie Recommendation System in Python](https://github.com/dataquestio/project-walkthroughs/blob/master/movie_recs/movie_recommendations.ipynb)
