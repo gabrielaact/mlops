@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/espec/OneDrive/Documentos/mlops/U3/mlruns/511417284030147587/a28e8179618b43adb33570afcc996f4e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '511417284030147587'
+lifecycle_stage: active
+run_id: a28e8179618b43adb33570afcc996f4e
+run_name: crawling-stork-125
+run_uuid: a28e8179618b43adb33570afcc996f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702822833571
+status: 1
+tags: []
+user_id: espec

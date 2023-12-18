@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/998996401111766380/cb22afc7ab9145348ec2825a2783f472/artifacts
+end_time: 1702858932219
+entry_point_name: ''
+experiment_id: '998996401111766380'
+lifecycle_stage: active
+run_id: cb22afc7ab9145348ec2825a2783f472
+run_name: SentimentClassifier
+run_uuid: cb22afc7ab9145348ec2825a2783f472
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702858377911
+status: 3
+tags: []
+user_id: espec

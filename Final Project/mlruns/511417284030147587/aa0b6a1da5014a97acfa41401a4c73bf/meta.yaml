@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/espec/OneDrive/Documentos/mlops/U3/mlruns/511417284030147587/aa0b6a1da5014a97acfa41401a4c73bf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '511417284030147587'
+lifecycle_stage: active
+run_id: aa0b6a1da5014a97acfa41401a4c73bf
+run_name: bedecked-zebra-469
+run_uuid: aa0b6a1da5014a97acfa41401a4c73bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702822897880
+status: 1
+tags: []
+user_id: espec
