@@ -35,11 +35,17 @@ In this step, the training of a Word2Vec model is performed. Finally, the traine
 
 ## Results
 
-The trained Word2Vec model yielded the following results:
+The trained Word2Vec model presented the following results, which were visualized in the MLflow interface:
 
 ![Metrics](https://github.com/gabrielaact/mlops/blob/main/Final%20Project/images/metrics.png)
 
 ![Confusion matrix](https://github.com/gabrielaact/mlops/blob/main/Final%20Project/images/confusion_matrix.png)
+
+With the Gradio tool it was possible to test different phrases to predict whether the emotion is positive or negative, as shown in the examples below:
+
+![Example 1](https://github.com/gabrielaact/mlops/blob/main/Final%20Project/images/gradio-3.png)
+
+![Example 2](https://github.com/gabrielaact/mlops/blob/main/Final%20Project/images/gradio-2.png)
 
 ## How to execute 
 
