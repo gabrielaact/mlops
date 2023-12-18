@@ -1,5 +1,8 @@
 # Multiclass Text Classification
-
+Authors: 
+- Caio Matheus Lopes Ribeiro
+- Elisa Gabriela Lucena
+- Gabriela Cruz Targino
 ## Summary
 
 This project aims to perform multiclass text classification using the [MLFlow](https://mlflow.org/) and [Gradio](https://www.gradio.app/) tools. The trained model is based on this [Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140/), which seeks to extract the prevailing emotion in a given tweet. The main goal in this project is to apply best practices in Machine Learning Operations (MLOps) learned during the course.
@@ -34,7 +37,9 @@ In this step, the training of a Word2Vec model is performed. Finally, the traine
 
 The trained Word2Vec model yielded the following results:
 
-[INSERIR RESULTADOS]
+![Metrics](https://github.com/gabrielaact/mlops/blob/main/Final%20Project/images/metrics.png)
+
+![Confusion matrix](https://github.com/gabrielaact/mlops/blob/main/Final%20Project/images/confusion_matrix.png)
 
 ## How to execute 
 
